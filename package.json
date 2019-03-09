@@ -4,6 +4,7 @@
   "description": " React port of slick carousel",
   "main": "./src",
   "files": [
+    "src",
     "lib"
   ],
   "scripts": {
@@ -20,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akiran/react-slick"
+    "url": "https://github.com/marconuccetelli/react-slick"
   },
   "keywords": [
     "slick",
@@ -111,7 +112,7 @@
   "npmName": "react-slick",
   "npmFileMap": [
     {
-      "basePath": ".src/",
+      "basePath": "./src/",
       "files": [
         "*.js",
         "*.css",
