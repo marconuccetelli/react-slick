@@ -111,7 +111,7 @@
   "npmName": "react-slick",
   "npmFileMap": [
     {
-      "basePath": "/src/",
+      "basePath": ".src/",
       "files": [
         "*.js",
         "*.css",
